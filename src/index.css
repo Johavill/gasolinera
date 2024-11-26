@@ -30,14 +30,14 @@
 #consultSection,
 #reportes{
   width: 100%;
-  background-image: url("/public/images/Diseño\ sin\ título\ \(2\).png");
+  background-image: url("/images/Diseño\ sin\ título\ \(2\).png");
   background-position: center center;
   background-size: cover;
 }
 
 #RegistrarSection {
   width: 100%;
-  background-image: url("/public/images/Diseño\ sin\ título\ \(1\).png");
+  background-image: url("/images/Diseño\ sin\ título\ \(1\).png");
   background-position: center center;
   background-size: cover;
 }
